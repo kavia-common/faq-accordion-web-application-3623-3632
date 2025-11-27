@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/faq-accordion-web-application-3623-3632/faq_frontend"
+}
